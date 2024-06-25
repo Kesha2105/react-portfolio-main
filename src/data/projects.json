@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Invoice Generator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to generate invoices and CRUD operations ",
+    "skills": ["Spring Boot", "Hibernate", "MySQL"],
+    "demo": "https://github.com/Kesha2105/invoice-project-system",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Chatting App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn socket programming.",
+    "skills": ["Java Swing", "Socket Programming"],
+    "demo": "https://github.com/Kesha2105/Chatting-App",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Rock-paper-scissors",
+    "imageSrc": "projects/project.png",
+    "description": "This is a simple game rock - paper - scissors",
+    "skills": ["Html", "Css", "Js"],
+    "demo": "https://github.com/Kesha2105/RockPaperScissor",
+    "source": "https://www.github.com"
+  }
+]
